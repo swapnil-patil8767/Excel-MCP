@@ -2,7 +2,9 @@
 
 # 📊 Excel MCP - AI-Powered Excel Automation Server
 
-![Excel MCP Banner](https://via.placeholder.com/800x200/2591DB/FFFFFF?text=Excel+MCP+-+AI-Powered+Excel+Automation)
+<img width="454" height="156" alt="image" src="https://github.com/user-attachments/assets/4a569b65-4f20-45a9-9469-2c7699e9d1fb" />
+<br><br>
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastMCP](https://img.shields.io/badge/FastMCP-Latest-green.svg)](https://github.com/jlowin/fastmcp)
@@ -1000,3 +1002,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Swapnil Patil**
 
 *Transform your Excel workflows with AI - one conversation at a time.*
+
