@@ -10,8 +10,3 @@ wheels/
 # Virtual environments
 .venv
 
-excel-ai-assistant-main/
-
-temp_uploads/
-
-app.py
