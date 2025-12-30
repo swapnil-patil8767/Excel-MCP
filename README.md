@@ -1,12 +1,21 @@
+<div align="center">
+
 # 📊 Excel MCP - AI-Powered Excel Automation Server
+
+![Excel MCP Banner](https://via.placeholder.com/800x200/2591DB/FFFFFF?text=Excel+MCP+-+AI-Powered+Excel+Automation)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![FastMCP](https://img.shields.io/badge/FastMCP-Latest-green.svg)](https://github.com/jlowin/fastmcp)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/swapnil-patil8767/Excel-MCP?style=social)](https://github.com/swapnil-patil8767/Excel-MCP)
 
 **Excel MCP** is a powerful Model Context Protocol (MCP) server that enables AI assistants like Claude to perform advanced Excel operations through natural language. Transform your Excel workflows with automated data cleaning, visualization, analysis, and manipulation - all through conversational AI.
 
+[Features](#-key-features) • [Installation](#-complete-installation-guide) • [Usage](#-usage-guide) • [Documentation](#-available-tools-reference) • [Support](#-support)
+
 ---
+
+</div>
 
 ## 🌟 Key Features
 
@@ -973,7 +982,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/swapnil-patil8767/Excel-MCP/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/swapnil-patil8767/Excel-MCP/discussions)
-- **Email**: patilswapnil1606@gmail.com
+- **Email**: patilswapnil1606@gmal.com
 
 ---
 
