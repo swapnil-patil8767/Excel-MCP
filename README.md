@@ -16,11 +16,11 @@
 [Features](#-key-features) • [Installation](#-complete-installation-guide) • [Usage](#-usage-guide) • [Documentation](#-available-tools-reference) • [Support](#-support)
 
 ---
-
+  <br><br>
 </div>
 
 <div style="background-color: #2196F3; padding: 20px; border-radius: 12px; margin: 20px 0; border: 3px solid #1976D2;" align="center">
-  <br><br>
+
   # 📢 IMPORTANT NOTE
   
   <p style="color: #ffffff; font-size: 16px;">
@@ -29,7 +29,7 @@
   </p>
   <p style="color: #ffffff; margin-top: 15px;">
     <strong>📧 Contact:</strong> <a href="mailto:patilswapnil1606@gmail.com" style="color: #FFD54F; text-decoration: none; font-weight: bold;">patilswapnil1606@gmail.com</a><br>
-    <strong>📄 Resume:</strong> <a href="YOUR_RESUME_LINK" target="_blank" style="color: #FFD54F; text-decoration: none; font-weight: bold;">Click here to view</a>
+    <strong>📄 Resume:</strong> <a href="https://drive.google.com/file/d/1TBVcQyONMEZR6O-D5hiXF7QOxSqLKciL/view?usp=drive_link" target="_blank" style="color: #FFD54F; text-decoration: none; font-weight: bold;">Click here to view</a>
   </p>
   <br><br>
 </div>
@@ -1017,5 +1017,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by Swapnil Patil**
 
 *Transform your Excel workflows with AI - one conversation at a time.*
+
 
 
